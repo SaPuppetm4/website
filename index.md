@@ -4,6 +4,6 @@ this is python code.
 hehe.
 
 
-''' 
+``` 
 print("hi")
-'''
+```
