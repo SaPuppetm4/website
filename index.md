@@ -6,5 +6,7 @@ print("hi")
 ```
 and this is javascript code.
 
-```window.alert("hello")
+```
+window.alert("hello")
+
 ```
